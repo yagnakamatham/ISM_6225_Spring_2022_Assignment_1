@@ -54,7 +54,7 @@ namespace DIS_Assignmnet1_SPRING_2022
             String word3 = "aiohn";
             int[] indices = { 3, 1, 4, 2, 0 };
             String rotated_string = RestoreString(word3, indices);
-            Console.WriteLine("The Final string after rotation is ", rotated_string);
+            Console.WriteLine("The  Final string after rotation is ", rotated_string);
             Console.WriteLine();
 
             //Quesiton 6:
