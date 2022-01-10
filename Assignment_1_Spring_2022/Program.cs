@@ -244,8 +244,8 @@ namespace DIS_Assignmnet1_SPRING_2022
         Example 1:
         Input: bulls_string   = "mumacollegeofbusiness", ch = "c"
         Output: "camumollegeofbusiness"
-        Explanation: The first occurrence of "d" is at index 3. 
-        Reverse the part of word from 0 to 3 (inclusive), the resulting string is "dcbaefd".
+        Explanation: The first occurrence of "c" is at index 4. 
+        Reverse the part of word from 0 to 4 (inclusive), the resulting string is "camumollegeofbusiness".
 
         Example 2:
         Input: bulls_string   = "xyxzxe", ch = "z"
