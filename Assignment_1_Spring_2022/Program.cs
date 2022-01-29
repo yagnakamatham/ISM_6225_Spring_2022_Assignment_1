@@ -54,7 +54,7 @@ namespace DIS_Assignmnet1_SPRING_2022
             String bulls_string = "aiohn";
             int[] indices = { 3, 1, 4, 2, 0 };
             String rotated_string = RestoreString(bulls_string, indices);
-            Console.WriteLine("The  Final string after rotation is ", rotated_string);
+            Console.WriteLine("The  Final string after rotation is {0} ", rotated_string);
             Console.WriteLine();
 
             //Quesiton 6:
